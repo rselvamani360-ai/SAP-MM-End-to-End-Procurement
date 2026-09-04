@@ -22,7 +22,7 @@ The material master contains the information required for procurement and invent
 
 ---
 
-### [2. Vendor Creation](./Vendor%20Creation/Readme.md)
+### [2. Vendor Creation](./Vendor%20Creation/Vendor%20Creation/Readme.md)
 
 Vendor Creation is the process of creating and maintaining supplier master data required for procurement activities.
 
