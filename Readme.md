@@ -64,7 +64,7 @@ The quotations are compared to identify the most suitable vendor before creating
 
 ---
 
-### [6. G/L Accounting](./GL%20Accounting/Readme.md)
+### [6. G/L Accounting](./GL%20Accounting/)
 
 G/L Accounting activities support the accounting side of the procurement process.
 
