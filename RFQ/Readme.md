@@ -1,6 +1,6 @@
 # Request for Quotation (RFQ)
 
-## Overview
+## Definition
 
 A Request for Quotation (RFQ) is a purchasing document used to invite vendors to submit quotations for required materials or services.
 
@@ -9,6 +9,10 @@ In SAP MM, the RFQ process is used to request pricing and delivery information f
 ## Transaction Code
 
 **T-Code:** `ME41`
+
+## Procurement Flow
+
+**Purchase Requirement → Request for Quotation (RFQ) → Quotation → Vendor Comparison → Purchase Order → Goods Receipt (MIGO) → Invoice Verification (MIRO)**
 
 ## Purpose
 
@@ -34,11 +38,9 @@ The RFQ is created and sent to selected vendors so that their quotation details 
 - Delivery Date
 - Purchasing Organization
 - Purchasing Group
-- RFQ Validity / Quotation Deadline
+- Quotation Deadline
 
-## Vendor RFQ Details
-
-RFQs were created for multiple vendors as part of the procurement process.
+## Screenshots
 
 ### Vendor 1
 
@@ -51,16 +53,3 @@ RFQs were created for multiple vendors as part of the procurement process.
 ### Vendor 3
 
 ![Vendor 3 RFQ](./Vendor%203%20Rfq%20Display.png)
-
-## Procurement Flow
-
-```text
-Purchase Requirement
-        ↓
-RFQ
-        ↓
-Quotation
-        ↓
-Vendor Comparison
-        ↓
-Purchase Order
