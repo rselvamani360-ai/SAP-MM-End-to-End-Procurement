@@ -54,3 +54,4 @@ The account master data was maintained with the required description and control
 ### G/L Account Master Data
 
 ![G/L Account Creation](./Gl%20account%20inside%20data.png)
+
